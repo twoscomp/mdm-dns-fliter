@@ -1,0 +1,9 @@
+!
+! Title: Apple MDM Filter
+! Description: A filter list for managing connections to Apple MDM and Profile servers.
+!
+||iprofiles.apple.com^
+||mdmenrollment.apple.com^
+||deviceenrollment.apple.com^
+||gdmf.apple.com^
+
